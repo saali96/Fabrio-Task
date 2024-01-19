@@ -10,5 +10,5 @@ This repository contains a Python toolkit for comparing objects, primarily desig
 3. Breaks down correctness for each face, including bounding box coordinates, centroid, and area.
 
 ### Usage
-1. Clone the repository: git clone https://github.com/your-username/your-repo.git
+1. Clone the repository.
 2. Run the provided example using python task.py with the JSON files in the same directory.
